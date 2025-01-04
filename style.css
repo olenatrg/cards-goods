@@ -1,0 +1,29 @@
+body {
+  font-family: "Open Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+	background-color:#eee;
+}
+	.card{
+		background-color: #fff;
+		width: 852.63px;
+		border-radius: 63.16px;
+		padding: 30px;	
+		margin: auto;
+	}
+	.card-img{
+		border-radius: 63.16px;
+	}
+	.card-title {
+		margin-top: 20px;
+		font-size: 36px;
+		font-weight: 500px;		
+	}
+	.card-sub{
+		font-size: 35px;
+		font-weight: 300px;	
+		line-height: 0;
+	}
